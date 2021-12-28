@@ -1,3 +1,3 @@
 ﻿# Netflix-card
 
-![] (img/Output.png)
+<img src="img/Output.png">
